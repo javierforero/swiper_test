@@ -71,7 +71,7 @@ html,body {
 .prom-children {
   /*float: left;*/
   margin: 0 auto;
-  width: 33%;
+  width: 496px;
   color: black;
   padding: 3rem;
   line-height: 1.5rem;
@@ -105,7 +105,7 @@ html,body {
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center center;
-  min-width: 270px;
+  min-width: 400px;
 }
 
 div#prom-1 div.drawer-product-image  {
